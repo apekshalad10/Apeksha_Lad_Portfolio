@@ -1,8 +1,6 @@
-## ssWelcome to GitHub Pages
+## Welcome To Apeksha Lad Portfolio
 
-You can use the [editor on GitHub](https://github.com/apekshalad10/Apeksha_Lad_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello everyone, I am Apeksha Lad. I am student of **Data Analysis for Business Decision Making**, _Durham College_.
 
 ### Markdown
 
