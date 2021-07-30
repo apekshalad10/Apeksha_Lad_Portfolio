@@ -6,12 +6,18 @@ Hello everyone, I am Apeksha Lad. I am student of **"Data Analysis for Business 
 
 With my data analysis skills, I can help you in lots of different ways:
 
-⋅⋅⋅1. Analysing data to create new deals for your store.
-⋅⋅⋅2. Analysing customer uses to create new phone or internet plans.
-⋅⋅⋅3. Analysing order history to create a script for autosuggestions for your e-commerce portal.
-⋅⋅⋅4. Analysing survey data of your employees to solve internal administration problems.
-⋅⋅⋅5. Convincing stakeholders with excellent presentation with awesome visualization in Power BI or Tableau. 
-⋅⋅⋅6. Creating models with the help of Python and R to solve business issues or Social issues.
+  1. Analysing data to create new deals for your store.
+
+  2. Analysing customer uses to create new phone or internet plans.
+
+  3. Analysing order history to create a script for autosuggestions for your e-commerce portal.
+
+  4. Analysing survey data of your employees to solve internal administration problems.
+
+  5. Convincing stakeholders with excellent presentation with awesome visualization in Power BI or Tableau. 
+
+  6. Creating models with the help of Python and R to solve business issues or Social issues.
+
 
 ### Past Work
 
