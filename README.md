@@ -1,10 +1,14 @@
 ## Welcome To Apeksha Lad Portfolio
 
-Hello everyone, I am Apeksha Lad. I am student of **Data Analysis for Business Decision Making**, _Durham College_.
+Hello everyone, I am Apeksha Lad. I am student of **"Data Analysis for Business Decision Making"**, _Durham College_.
 
-### Markdown
+### What problem do you solve?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+During this program, I worked with lots of different kinds of problems as an assignment. Few of them are mansions below 
+
+1. Analyzing and creating a report for an organization. I used _**"Popeyes Louisiana Kitchen"**_, Inc. 
+
+![alt text](https://github.com/apekshalad10/Apeksha_Lad_Portfolio/blob/405370851a6865af3f7b69e1258357e335e0b78b/1.png "Popeyes Louisiana Kitchen")
 
 ```markdown
 Syntax highlighted code block
