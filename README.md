@@ -8,7 +8,7 @@ During this program, I worked with lots of different kinds of problems as an ass
 
 1. Analyzing and creating a report for an organization. I used _**"Popeyes Louisiana Kitchen"**_, Inc. 
 
-![alt text](https://github.com/apekshalad10/Apeksha_Lad_Portfolio/blob/405370851a6865af3f7b69e1258357e335e0b78b/1.png "Popeyes Louisiana Kitchen")
+![alt text](https://github.com/apekshalad10/Apeksha_Lad_Portfolio/1.png "Popeyes Louisiana Kitchen")
 
 ```markdown
 Syntax highlighted code block
