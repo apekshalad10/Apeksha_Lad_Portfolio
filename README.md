@@ -47,27 +47,33 @@ Everyone has some skill and fascinating uniqueness; mine are following:
 
 During this program, I worked with lots of different kinds of problems as an assignment. Few of them are mansions below 
 
-1. Analyzing and creating a report for an organization. I used _**"Popeyes Louisiana Kitchen"**_, Inc. 
+Analyzing and creating a report for an organization. I used _**"Popeyes Louisiana Kitchen"**_, Inc. 
+___
 
 ![Popeyes Louisiana Kitchen Report](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/1.png "Popeyes Louisiana Kitchen")
 
-2. Creating **_Power BI_** Visualization on **_Halloween Dataset_**. 
+Creating **_Power BI_** Visualization on **_Halloween Dataset_**. 
+___
 
 ![Halloween Dataset Visualization](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/2.png "Halloween Dataset Visualization")
 
-3. Creating _**Regression Data analysis in Excel**_. 
+Creating _**Regression Data analysis in Excel**_. 
+___
 
 ![Regression Data analysis in Excel](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/3.png "Regression Data analysis in Excel")
 
-4. Creating **_Executive Dashboard_** Visualization in **_Power BI_**.  
+Creating **_Executive Dashboard_** Visualization in **_Power BI_**.
+___
 
 ![Executive Dashboard](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/4.png "Executive Dashboard")
 
-5. Creating **_Flow Chart_** for an **_e-commerce portal_**. 
+Creating **_Flow Chart_** for an **_e-commerce portal_**. 
+___
 
 [Click here to Open File](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/5.pdf)
 
-6. Creating **_Pandas Profiling Report_** for giving dataset. 
+Creating **_Pandas Profiling Report_** for giving dataset. 
+___
 
 [Click here to Open File](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/6.html)
 
