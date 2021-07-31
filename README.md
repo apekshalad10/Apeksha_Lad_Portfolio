@@ -59,7 +59,7 @@ During this program, I worked with lots of different kinds of problems as an ass
 
 ![Regression Data analysis in Excel](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/3.png "Regression Data analysis in Excel")
 
-4. Creating **_Executive Dashboard_** Visualization in **_Power BI_**. 
+4. Creating **_Executive Dashboard_** Visualization in **_Power BI_**.  
 
 ![Executive Dashboard](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/4.png "Executive Dashboard")
 
