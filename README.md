@@ -1,6 +1,7 @@
 ## Welcome To Apeksha Lad Portfolio
 
-Hello everyone, I am Apeksha Lad. I am student of **"Data Analysis for Business Decision Making"**, _Durham College_.
+Hello everyone, I am Apeksha Lad. I am a student of **"Data Analysis for Business Decision Making"**, _Durham College_.
+
 
 ### Introduction
 
@@ -17,6 +18,25 @@ With my data analysis skills, I can help you in lots of different ways:
   5. Convincing stakeholders with excellent presentation with awesome visualization in Power BI or Tableau. 
 
   6. Creating models with the help of Python and R to solve business issues or Social issues.
+
+
+
+
+### Uniqueness 
+
+Everyone has some skill and fascinating uniqueness; mine are following:
+
+  1. **_Understanding_**: I am a person who can understand your requirements quickly and easily.
+  
+  2. **_Intuitive Mind_**: Intuition often plays a strong role in problem-solving and decision making.
+  
+  3. **_Ready to Work_**: Always available to work with new challenges and problems.
+  
+  4. **_Expert in Visualization_**: Strong hold on visualization in Power BI.
+
+  5. **_Experties in Database Handling_**: Experience in database handling, which helps me to work around data more.
+
+
 
 
 ### Past Work
