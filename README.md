@@ -3,9 +3,9 @@
 
 Hello everyone, I am Apeksha Lad. I am a student of **"Data Analysis for Business Decision Making"**, _Durham College_.
 
-
-### Introduction
 ---
+### Introduction
+
 
 With my data analysis skills, I can help you in lots of different ways:
 
@@ -22,10 +22,10 @@ With my data analysis skills, I can help you in lots of different ways:
   6. Creating models with the help of Python and R to solve business issues or Social issues.
 
 
-
+---
 
 ### Uniqueness 
----
+
 
 Everyone has some skill and fascinating uniqueness; mine are following:
 
@@ -40,10 +40,10 @@ Everyone has some skill and fascinating uniqueness; mine are following:
   5. **_Experties in Database Handling_**: Experience in database handling, which helps me to work around data more.
 
 
-
-
-### Past Work
 ---
+
+### Past Work in College
+
 
 During this program, I worked with lots of different kinds of problems as an assignment. Few of them are mansions below 
 
@@ -51,34 +51,27 @@ During this program, I worked with lots of different kinds of problems as an ass
 
 ![Popeyes Louisiana Kitchen Report](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/1.png "Popeyes Louisiana Kitchen")
 
-1. Analyzing and creating a report for an organization. I used _**"Popeyes Louisiana Kitchen"**_, Inc. 
+2. Creating **_Power BI_** Visualization on **_Halloween Dataset_**. 
 
-![Popeyes Louisiana Kitchen Report](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/1.png "Popeyes Louisiana Kitchen")
+![Halloween Dataset Visualization](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/2.png "Halloween Dataset Visualization")
 
-```markdown
-Syntax highlighted code block
+3. Creating _**Regression Data analysis in Excel**_. 
 
-# Header 1
-## Header 2
-### Header 3
+![Regression Data analysis in Excel](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/3.png "Regression Data analysis in Excel")
 
-- Bulleted
-- List
+4. Creating **_Executive Dashboard_** Visualization in **_Power BI_**. 
 
-1. Numbered
-2. List
+![Executive Dashboard](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/4.png "Executive Dashboard")
 
-**Bold** and _Italic_ and `Code` text
+5. Creating **_Flow Chart_** for an **_e-commerce portal_**. 
 
-[Link](url) and ![Image](src)
-```
+[Click here to Open File](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/5.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+6. Creating **_Pandas Profiling Report_** for giving dataset. 
 
-### Jekyll Themes
+[Click here to Open File](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/6.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apekshalad10/Apeksha_Lad_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+---
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
