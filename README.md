@@ -1,9 +1,11 @@
 ## Welcome To Apeksha Lad Portfolio
+---
 
 Hello everyone, I am Apeksha Lad. I am a student of **"Data Analysis for Business Decision Making"**, _Durham College_.
 
 
 ### Introduction
+---
 
 With my data analysis skills, I can help you in lots of different ways:
 
@@ -23,6 +25,7 @@ With my data analysis skills, I can help you in lots of different ways:
 
 
 ### Uniqueness 
+---
 
 Everyone has some skill and fascinating uniqueness; mine are following:
 
@@ -40,6 +43,7 @@ Everyone has some skill and fascinating uniqueness; mine are following:
 
 
 ### Past Work
+---
 
 During this program, I worked with lots of different kinds of problems as an assignment. Few of them are mansions below 
 
