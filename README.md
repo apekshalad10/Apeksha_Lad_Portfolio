@@ -80,7 +80,7 @@ ___
 ---
 ### About Us
 
-![Roadmap Of My Life](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/roadmap.png "Roadmap Of My Life")
+![Roadmap Of My Life](https://apekshalad10.github.io/Apeksha_Lad_Portfolio/raodmap.png "Roadmap Of My Life")
 
 ---
 ### Submitted By
